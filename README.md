@@ -21,3 +21,10 @@
 * THEN the text for that event is saved in local storage
 * WHEN I refresh the page
 * THEN the saved events persist
+
+* Help was provided during Tutoring session on color coding each time block by Juan Delgado
+* connected each html div using css and js/jquery/days.js for loop to color code each time slot
+
+# Summary
+
+* was able to update starter code to achieve all the accepted criteria, help was provided by tutor during tutoring session as they were a great help.
