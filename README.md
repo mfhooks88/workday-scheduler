@@ -27,4 +27,8 @@
 
 # Summary
 
-* was able to update starter code to achieve all the accepted criteria, help was provided by tutor during tutoring session as they were a great help.
+* was able to update starter code to achieve all the accepted criteria, help was provided by tutor during tutoring session as they were a great help. Was able to use code on html, css, js, jquery, days.js and bootstrap and the help of starter code to achieve the look of the site. Site is functional where you can save your daily tasks and it will still show after refreshing the page. Each time slot will show a different color. Gray for past time, red for current hour, and green for future hours for that day.
+
+* https://mfhooks88.github.io/workday-scheduler/
+
+* <img width="1512" alt="Screenshot 2023-12-21 at 8 11 12 PM" src="https://github.com/mfhooks88/workday-scheduler/assets/152635274/a7dbbb3c-cc0f-450f-a137-7967edceff35">
